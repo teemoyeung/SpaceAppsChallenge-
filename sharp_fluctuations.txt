@@ -1,0 +1,33 @@
+Location: -94.21	57.71 
+Sharp Fluctuation Data: 
+Time: 5 Magnetic Fluctuation: 69.26
+Time: 23 Magnetic Fluctuation: 220.88
+Time: 48 Magnetic Fluctuation: 24.15
+Time: 50 Magnetic Fluctuation: 225.37
+Time: 52 Magnetic Fluctuation: 366.96
+Time: 105 Magnetic Fluctuation: 121.68
+Time: 124 Magnetic Fluctuation: 12.79
+Time: 127 Magnetic Fluctuation: 119.55
+Time: 170 Magnetic Fluctuation: 266.15
+Time: 173 Magnetic Fluctuation: 300.05
+Time: 176 Magnetic Fluctuation: 433.81
+Time: 178 Magnetic Fluctuation: 245.09
+Time: 179 Magnetic Fluctuation: 813.35
+Time: 184 Magnetic Fluctuation: 253.13
+Time: 188 Magnetic Fluctuation: 53.46
+Time: 218 Magnetic Fluctuation: 133.23
+Time: 220 Magnetic Fluctuation: 333.69
+Time: 242 Magnetic Fluctuation: 336.56
+Time: 343 Magnetic Fluctuation: 30.33
+Time: 391 Magnetic Fluctuation: 263.79
+Time: 411 Magnetic Fluctuation: 166.0
+Time: 440 Magnetic Fluctuation: 183.27
+Time: 486 Magnetic Fluctuation: 249.51
+Time: 544 Magnetic Fluctuation: 8.42
+Time: 562 Magnetic Fluctuation: 51.71
+Time: 628 Magnetic Fluctuation: 37.3
+Time: 651 Magnetic Fluctuation: 153.45
+Time: 655 Magnetic Fluctuation: 231.3
+Time: 675 Magnetic Fluctuation: 169.32
+Time: 680 Magnetic Fluctuation: 51.88
+Time: 727 Magnetic Fluctuation: 196.33
